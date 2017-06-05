@@ -1,4 +1,4 @@
-package sun.xi.jin.algorithm;
+package com.xixi.summary.algorithm;
 
 /**
  * Hello world!
